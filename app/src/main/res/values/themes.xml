@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestAPi" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/ungu</item>
+        <item name="colorPrimaryDark">@color/ungu</item>
+        <item name="titleTextColor">@color/black</item>
+    </style>
+
+    <style name="Theme.TestAPi" parent="Base.Theme.TestAPi" />
+</resources>

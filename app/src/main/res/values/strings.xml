@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TestAPi</string>
+    <string name="nama_orang">nama orang</string>
+    <string name="searchbar_hint">Masukkan Kata</string>
+    <string name="cari_disini">Cari Disini</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kata_kunci">Masukkan Kata Kunci</string>
+    <string name="github_user">GitHub User</string>
+    <string name="kata_kunci_user">Masukkan Nama Username</string>
+    <string name="cari">Silahkan Cari Pengguna \ndengan Cara Klik Icon Search</string>
+    <string name="tidak_ditemukan">Pengguna Tidak Ditemukan</string>
+    <string name="following">%1$s Followings</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="terjadi_error">Terjadi Error \nCoba Periksa Internet Anda dan Ulangi Lagi</string>
+    <string name="memuat">Memuat</string>
+    <string name="tidak_follow">Pengguna Tidak Difollow Siapapun</string>
+    <string name="tidak_following">Pengguna Tidak Memfollow Siapapun</string>
+    <string name="follow">Followers</string>
+    <string name="folling">Following</string>
+    <string name="content_tab_text">Pengguna Tidak %1$s Siapapun</string>
+    <string name="terjadi_error_coy">Terjadi Error \nSilahkan Coba Lagi</string>
+    <string name="pengguna_tidak_difollow_siapapun">Pengguna Tidak Difollow Siapapun</string>
+    <string-array name="tidak">
+        <item>Pengguna Tidak Difollow Siapapun</item>
+        <item>Pengguna Tidak Memfollow Siapapun</item>
+    </string-array>
+</resources>
